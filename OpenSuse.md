@@ -24,7 +24,7 @@ Live Patching permet d'appliquez des correctifs et des mises à jour critiques a
 
 Dans mon cas j'ai essayé la TUI de yast2, depuis YaST, vous pouvez effectuer à peu près n’importe quelle tâche d’administration du système. Par exemple :
 
-- Installer et supprimer des logiciels (voir chapitre suivant)
+- Installer et supprimer des logiciels
 - Configurer les paramètres système (Date/heure, langue, réseau...)
 - Configurer votre pare-feu
 - Activer ou désactiver les services du système
