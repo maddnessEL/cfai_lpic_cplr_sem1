@@ -1,7 +1,7 @@
 # OpenSuse LEAP
 ![](https://i.imgur.com/opAO1al.png)
 
-### Les avantage de OpenSUSE:
+### Les avantages de OpenSUSE:
 - **Compatibilité binaire avec SLES**: 
 
 OpenSUSE Leap est basé sur les paquets de SUSE Linux Enterprise Server (SLES) de l’entreprise de Nuremberg. Depuis lors, la base de code des deux systèmes d’exploitation est identique et les distributions sont compatibles binaires. 
@@ -42,7 +42,7 @@ Voici à quoi ressemble l'interface TUI de YaST2 :
 
 ### **Installation d'un service avec YaST :**
 
-Nous allons nous rendre dans **Logiciel > Installer et supprimer des logiciels** et faite les étapes suivant :
+Nous allons nous rendre dans **Logiciel > Installer et supprimer des logiciels** et faites les étapes suivantes :
 
 ```yaml
     Étapes:
@@ -66,7 +66,7 @@ Nous allons maintenant vérifier que le service est activé et mettre le démarr
 ```
 ![](https://i.imgur.com/eLosxe5.png)
 
-Pour finir nous allons éditer le pare-feu afin d'autoriser les flux **HTTP** et **HTTPS**, pour ce faire rendez-vous dans **Sécurité et Utilisateur > Pare-feu** et suivez les étapes suivantes :
+Pour finir nous allons éditer le pare-feu afin d'autoriser les flux **HTTP** et **HTTPS**, pour ce faire rendez-vous dans **Sécurité et Utilisateurs > Pare-feu** et suivez les étapes suivantes :
 
 ```yaml
     Étapes:
@@ -77,6 +77,6 @@ Pour finir nous allons éditer le pare-feu afin d'autoriser les flux **HTTP** et
 ```
 ![](https://i.imgur.com/L5Fx5KS.png)
 
-Nginx est maintenant accessible et est accessible depuis l'ip de la machine.
+Le logiciel Nginx est maintenant fonctionel et est accessible depuis l'ip de la machine.
 
 ![](https://i.imgur.com/VRuktkK.png)
